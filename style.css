@@ -9,26 +9,26 @@ body {
 .wall {
     width: 50px;
     height: 50px;
-    background-image: url('pac-man/images/wall copy.png');
+    background-image: url('images/wall copy.png');
     display: inline-block;
 }
 .coin {
     width: 50px;
     height: 50px;
-    background-image: url('pac-man/images/coin copy.png');
+    background-image: url('images/coin copy.png');
     display: inline-block;
 }
 .ground {
     width: 50px;
     height: 50px;
-    background-image: url('pac-man/images/bg copy.png');
+    background-image: url('images/bg copy.png');
     display: inline-block;
 }
 
 .pacman {
     width: 50px;
     height: 50px;
-    background-image: url('pac-man/images/pacman copy.png');
+    background-image: url('images/pacman copy.png');
     display: inline-block;
 }
 
