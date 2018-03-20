@@ -36,6 +36,6 @@ div {
     line-height: 0px;
 }
 
-h2 {
-    letter-spacing: 1px;
+.yellow {
+    color: yellow;
 }
