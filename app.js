@@ -1,9 +1,3 @@
-	// 1 = <div class='wall'></div>
-	// 2 = <div class='coin'></div>
-	// 3 = <div class='ground'></div>
-	// 4 = <div class='ghost'></div>
-	// 5 = <div class='pacman'></div>
-
 var map = [
 	[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
 	[1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1],
